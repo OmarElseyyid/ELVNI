@@ -1,2 +1,1 @@
-# ELVNI
-ELVNI RESTURANT &amp; CAFE &amp; AT ÇİFTLİĞİ
+# Blog-System-in-Laravel
